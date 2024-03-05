@@ -1,0 +1,27 @@
+.bg{
+    background: linear-gradient(45deg,#8ef9f9,#2a7976);
+    padding: 30px;
+    height: 100vh;
+}
+
+.f1{
+    background:linear-gradient(45deg,rgb(1, 151, 123),#b4e7ec);
+    width: 40%;
+    padding:30px;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    box-shadow: 10px 10px 50px rgb(2, 131, 122);
+}
+
+.inp1{
+    background:linear-gradient(45deg,#87d6c9,#fff);
+    height: 40px;
+    width: 100%;
+    border:0;
+    border-radius: 10px;
+    color: #06608de3;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
